@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "https://yatta47.github.io/hatena-matome-site/"
+baseurl: "/hatena-matome-site"
+url: "https://yatta47.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
