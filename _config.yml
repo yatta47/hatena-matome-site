@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+baseurl: ""
+url: "https://yatta47.github.io/hatena-matome-site/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
